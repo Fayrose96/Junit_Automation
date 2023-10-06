@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My Test Suite">
+    <test name="My Test">
+        <classes>
+            <class name="TestAutomation" />
+        </classes>
+    </test>
+    <!--
+    <listeners>
+        <listener class-name="org.testng.reporters.EmailableReporter" />
+        <listener class-name="org.testng.reporters.XMLReporter" />
+        <listener class-name="org.testng.reporters.JUnitReportReporter" />
+        <listener class-name="org.testng.reporters.TestHTMLReporter" />
+    </listeners>
+    -->
+</suite>
