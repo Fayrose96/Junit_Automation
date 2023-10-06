@@ -17,8 +17,6 @@ This test automation project is designed to automate various test scenarios on t
 
 ### Installation
 
-### Installation
-
 1. **Download and Install IntelliJ IDEA:**
  Download and install [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
 2. **Clone the Repository:**
