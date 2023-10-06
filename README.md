@@ -1,21 +1,5 @@
 # Junit_Automation
 
-# Test Automation Project
-
-This is a test automation project using Java and Selenium WebDriver for automating web tests on the Digital Unite website.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Running the Tests](#running-the-tests)
-- [Test Scenarios](#test-scenarios)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## About this project
 
 This test automation project is designed to automate various test scenarios on the Digital Unite website. It utilizes the Selenium WebDriver framework to interact with web elements and perform actions on web pages. The project includes test cases for:
@@ -40,6 +24,7 @@ This test automation project is designed to automate various test scenarios on t
    git clone <repository_url>
 
 ### Configuration
+
 1.Open the project in preferred Java IDE(e.g., IntelliJ IDEA,).
 2.Configure the WebDriver executable path in the test script:
  In the browsersetup method of TestAutomation.java, set the path to WebDriver executable.
