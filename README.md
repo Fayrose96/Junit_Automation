@@ -37,9 +37,9 @@ This test automation project is designed to automate various test scenarios on t
   
   4.In the TestAutomation.java file, configure the following:
   WebDriver Executable Path: Update the browsersetup method to set the path to WebDriver executable.
- 
 
- ## Running the Tests
+ 
+## Running the Tests
   To run the automated tests use Java IDE or Maven. Ensure that the WebDriver executable is either in system's PATH or the path is set explicitly in the code.
   For Using Maven:
   
